@@ -18,7 +18,7 @@ Performance(CIFAR-10 Top-1 accuracy)
 
 - Augmented Retraining
 	* Baseline: 97.13%
-	* Randomly Wired DARTS: __97.25%___
+	* Randomly Wired DARTS: __97.25%__
 Reference
 - Randomly Wired Neural Network: https://github.com/seungwonpark/RandWireNN
 - DARTS: https://github.com/quark0/darts
